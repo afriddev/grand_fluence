@@ -20,6 +20,15 @@ const config: Config = {
         roboto: ['Roboto', 'sans-serif'],
         montserrat:['Montserrat','sans-serif']
       },
+      extend:{
+        
+      },
+      colors:{
+        "black":"#000000",
+        "yellow":'#ffd60a',
+        'blackShade':"#212121"
+
+      }
       
     },
   },
